@@ -9,7 +9,7 @@
 	* constructor
 	* setState - setState with a callback function and setState with an object passed in
 	* .bind
-	* Functional components vs class components
+	* functional components vs class components
   	* onClick
 
 
